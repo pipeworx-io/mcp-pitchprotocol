@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-pitchprotocol",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pitch Protocol — agent-native venture-capital infrastructure (pitchprotocol.vc).",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-f0c4b87eb64570084adc63193e1219a956bfa6517025ad97ab3878557ee7fec9",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }

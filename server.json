@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/pitchprotocol",
   "title": "Pitchprotocol",
   "description": "Pitch Protocol — agent-native venture-capital infrastructure (pitchprotocol.vc).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/pitchprotocol",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-pitchprotocol",
